@@ -1,6 +1,6 @@
 # Files and directories to be ignored
 technology.md
-
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
