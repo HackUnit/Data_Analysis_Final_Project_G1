@@ -1,2 +1,8 @@
-# Data_Analysis_Final_Project_G1
-Main Repository for Group One's Final Project.
+# Main Repository for Group One's Final Project.
+
+
+
+## Communication Protocols
+
+Slack and Zoom are utilized for communication purposes.
+Protocols were also established for correct usage by group users when utilizing GitHub.
