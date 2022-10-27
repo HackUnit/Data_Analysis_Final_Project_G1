@@ -7,7 +7,7 @@ Our project analyzes the relationship between ***GDP***/***GDP*** per capita and
 
 ## Selection Reasoning
 
-As the gap between low-income and high-income countries continues to grow, it is important to understand how productive and technological capacities of countries affects the GDP/GDP per capita of different regional economies. 
+As the gap between low-income and high-income countries continues to grow, it is important to understand how productive and technological capacities of countries affects the ***GDP***/***GDP*** per capita of different regional economies. 
 
 
 ## Description of Data Sources
@@ -21,7 +21,7 @@ entrepreneurial capabilities and production linkage. The features of the ***PCI*
 
 - The ***FTRI** measures technological capacities related to physical investment, human capital and technological effort, and covers national capacities to use, adopt and adapt these technologies. The features of the ***FTRI*** analyzed for each given country in this project inlcude: ICT, Skills, Research and Development, Industry Activity, and Access to Finance.
 
-- From the **[World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2021&name_desc=true&start=2021)**, the data selected include countries broken by global regions and six income levels. Each country has a measurement for ***GDP per capita*** and ***GDP***: <br><br>
+- From the **[World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2021&name_desc=true&start=2021)**, the data selected include countries broken by global regions and six income levels. Each country has a measurement for ***GDP per capita*** and ***GDP***: <br>
     - ***GDP per capita*** is gross domestic product divided by midyear population.<br>
     - ***GDP*** is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products.
 
