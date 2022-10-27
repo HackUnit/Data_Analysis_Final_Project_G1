@@ -31,5 +31,4 @@ countries in different regions of the world.
 
 ## Communication Protocols
 - Slack and Zoom are utilized for communication purposes for coordination among the group's team-mates.
-<br>
 - Protocols were also established for correct usage by group users when utilizing GitHub.
