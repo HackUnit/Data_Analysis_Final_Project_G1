@@ -23,7 +23,7 @@ entrepreneurial capabilities and production linkage. The features of the ***PCI*
 
 - From the **[World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2021&name_desc=true&start=2021)**, the data selected include countries broken by global regions and six income levels. Each country has a measurement for ***GDP per capita*** and ***GDP***: <br><br>
     - ***GDP per capita*** is gross domestic product divided by midyear population.<br>
-    - ***GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products.
+    - ***GDP*** is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products.
 
 
 ## Questions Addressed
