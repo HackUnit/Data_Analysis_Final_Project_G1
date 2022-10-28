@@ -2,12 +2,12 @@
 
 ## Selected Topic
 
-Our project analyzes the relationship between ***GDP***/***GDP*** per capita and the productive and technological capacities of different countries between the years **2008** and **2019**.
+Our project analyzes the relationship between ***GDP***/***GDP per capita*** and the productive and technological capacities of different countries between the years **2008** and **2019**.
 
 
 ## Selection Reasoning
 
-As the gap between low-income and high-income countries continues to grow, it is important to understand how productive and technological capacities of countries affects the ***GDP***/***GDP*** per capita of different regional economies.
+As the gap between low-income and high-income countries continues to grow, it is important to understand how productive and technological capacities of countries affects the ***GDP***/***GDP per capita*** of different regional economies.
 
 
 ## Description of Data Sources
