@@ -15,14 +15,10 @@ As the gap between low-income and high-income countries continues to grow, it is
 The data sources used for this project are derived from two reputable international organizations:
 **The United Nations Conference on Trade and Development (UNCTAD)** and the **World Bank**.
 
-<<<<<<< HEAD
-- From **UNCTAD**, the data selected include the productive capacities index [(PCI)](/Data/Clean_Data/Productive_capacities_index,annual.csv) and the frontier technology readiness index [(FTRI)](/Data/Clean_Data/Productive_capacities_index,annual.csv).
-- The ***PCI*** measures the level of productive capacities along three pillars for a given economy: productive resources,
-=======
-- From **UNCTAD**, the data selected include the productive capacities index [(PCI)](/Data/Clean_Data/Productive_capacities_index,annual.csv) and the frontier technology readiness index [(FTRI)](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=227701).
-- The ***PCI*** measure the levels of productive capacities along three pillars for a given economy: productive resources,
->>>>>>> 8d3826453e27f3a56b8824afaa9df1714ed4a309
-entrepreneurial capabilities and production linkage. The features of the ***PCI*** analyzed for each country in this project include: human capital, natural capital, energy, transport, ICT, institutions, private sector, and structural change.
+
+- From **UNCTAD**, the data selected include the productive capacities index [(PCI)](/Data/Clean_Data/Productive_capacities_index,annual.csv) and the frontier technology readiness index [(FTRI)](/Data/Clean_Data/Frontier_technology_readiness_index,annual.csv).
+
+- The ***PCI*** measure the levels of productive capacities along three pillars for a given economy: productive resources, entrepreneurial capabilities and production linkage. The features of the ***PCI*** analyzed for each country in this project include: human capital, natural capital, energy, transport, ICT, institutions, private sector, and structural change.
 
 - The ***FTRI*** measures technological capacities related to physical investment, human capital and technological effort, and covers national capacities to use, adopt and adapt these technologies. The features of the ***FTRI*** analyzed for each given country in this project include: ICT, Skills, Research and Development, Industry Activity, and Access to Finance.
 
