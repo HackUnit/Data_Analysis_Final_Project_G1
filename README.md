@@ -15,7 +15,7 @@ As the gap between low-income and high-income countries continues to grow, it is
 The data sources used for this project are derived from two reputable international organizations: 
 **The United Nations Conference on Trade and Development (UNCTAD)** and the **World Bank**.
 
-- From **UNCTAD**, the data selected include the productive capacities index [(PCI)](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=199270) and the frontier technology readiness index [(FTRI)](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=227701).
+- From **UNCTAD**, the data selected include the productive capacities index ![(PCI)](/Data/Clean_Data/Productive_capacities_index,annual.csv) and the frontier technology readiness index [(FTRI)](https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=227701).
 - The ***PCI*** measure the levels of productive capacities along three pillars for a given economy: productive resources,
 entrepreneurial capabilities and production linkage. The features of the ***PCI*** analyzed for each country in this project include: human capital, natural capital, energy, transport, ICT, institutions, private sector, and structural change.
 
