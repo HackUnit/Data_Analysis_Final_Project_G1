@@ -39,3 +39,10 @@ countries in different regions of the world.
 - Slack and Zoom are utilized for communication purposes for coordination among the group's team-mates.
 - Protocols were also established for correct usage by group users when utilizing GitHub.
 
+## Collaborators
+
+ - [File of Collaborators](Resources/Collaborators.rtf) and what they have worked on. File kept separate to ease in editing.
+
+#### For Collaborators
+
+[Link](https://docs.google.com/document/d/1cURwKdMtSmZSuzYFqN_c9lPTZehsTW9BrUK0n6Fs-nE/edit) to editable Segment 2 Rubric Checklist.
