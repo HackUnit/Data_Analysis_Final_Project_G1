@@ -41,7 +41,7 @@ countries in different regions of the world.
 
 ## Collaborators
 
- - [File of Collaborators](Resources/Collaborators.rtf) and what they have worked on. File kept separate to ease in editing.
+ - [File of Collaborators](Resources/Collaborators.txt) and what they have worked on. File kept separate to ease in editing.
 
 #### For Collaborators
 
