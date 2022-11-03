@@ -46,3 +46,5 @@ countries in different regions of the world.
 #### For Collaborators
 
 [Link](https://docs.google.com/document/d/1cURwKdMtSmZSuzYFqN_c9lPTZehsTW9BrUK0n6Fs-nE/edit) to editable Segment 2 Rubric Checklist.
+
+[Link](https://docs.google.com/presentation/d/1Jcp-525SAy1fqANWJpyrW5gBkoJuHJ20XVnxLsWbyDU/edit?usp=sharing) to editable Google Slides
