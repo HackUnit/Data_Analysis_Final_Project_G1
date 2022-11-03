@@ -30,7 +30,8 @@ The data sources used for this project are derived from two reputable internatio
 ## Questions Addressed
 
 - The main question we will address is what are the most important productive capacity and technological capacity features that a government should invest in to increase their ***GDP***/***GDP per capita***.<br>
-- Another question we plan to address is how do productive capacity and technological capacity features differ between
+- Another question we will address is should countries concentrate on productive capacity or technological capacity features to maximize their GDP/GDP per capita.
+- The last question we will address is how do productive capacity and technological capacity features differ between
 countries in different regions of the world.
 
 
