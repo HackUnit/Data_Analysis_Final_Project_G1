@@ -5,7 +5,7 @@ Main Repository for Group One's Final Project.
 
 Using Multivariate Linear Regression and Random Forest Classifiers to analyze relationships in GDP factors
 
-## Descrptions of Machine Learning Model Methodology
+## Descriptions of Machine Learning Model Methodology
 
 ### Description of preliminary data Preprocessing:
 
