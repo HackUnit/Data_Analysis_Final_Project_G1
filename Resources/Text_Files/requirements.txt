@@ -206,6 +206,7 @@ prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
 protobuf==3.19.1
 psutil @ file:///C:/ci/psutil_1612298033174/work
+psycopg2==2.9.5
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 py @ file:///opt/conda/conda-bld/py_1644396412707/work
 pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
