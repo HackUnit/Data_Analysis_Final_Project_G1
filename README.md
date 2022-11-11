@@ -57,7 +57,9 @@ Using Multivariate Linear Regression and Random Forest Classifiers to analyze re
 
   * For our first model we chose a **multivariate linear regression**, as this model will help form the basis for a predictive analysis tool. The final model will help countries determine how investments or losses in certain features will impact their ***GDP*** growth. Our next model will be a **random forest classifier**, as it can identify which features have the greatest impact on our target in. In our case the target is ***GDP***, and thus our model help give countries an idea of what economic features to invest in and safeguard the most. Some limitations of our models is that they will not be able to take in all our features. Machine learning requires zero null values which meant that some countries with incomplete economic data will not be able to be part of our model.
 
-## Collaborators
+## Auxillary Files
+
+ - [Requirements File](Resources/Text_Files/Collaborators.txt) of packages required to run code.
 
  - [File of Collaborators](Resources/Text_Files/Collaborators.txt) and what they have worked on. File kept separate to ease in editing.
 
