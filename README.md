@@ -59,7 +59,7 @@ Using Multivariate Linear Regression and Random Forest Classifiers to analyze re
 
 ## Collaborators
 
- - [File of Collaborators](Resources/TextFiles/Collaborators.txt) and what they have worked on. File kept separate to ease in editing.
+ - [File of Collaborators](Resources/Text_Files/Collaborators.txt) and what they have worked on. File kept separate to ease in editing.
 
 #### For Collaborators
 
