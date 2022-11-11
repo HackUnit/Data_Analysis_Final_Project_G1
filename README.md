@@ -24,7 +24,7 @@ Using Multivariate Linear Regression and Random Forest Classifiers to analyze re
   * For our first model we chose a multivariate linear regression, as this model will help form the basis for a predictive analysis tool. The final model will help countries determine how investments or losses in certain features will impact their GDP growth. Our next model will be a random forest classifier, as it can identify which features have the greatest impact on our target in. In our case the target is GDP, and thus our model help give countries an idea of what economic features to invest in and safeguard the most. Some limitations of our models is that they will not be able to take in all our features. Machine learning requires zero null values which meant that some countries with incomplete economic data will not be able to be part of our model.
 
 
-# Main Repository for Group One's Final Project.
+# Outline of Group One's Final Project.
 
 ## Selected Topic
 
@@ -60,11 +60,6 @@ The data sources used for this project are derived from two reputable internatio
 - The last question we will address is how do productive capacity and technological capacity features differ between
 countries in different regions of the world.
 
-
-## Communication Protocols
-
-- Slack and Zoom are utilized for communication purposes for coordination among the group's team-mates.
-- Protocols were also established for correct usage by group users when utilizing GitHub.
 
 ## Collaborators
 
