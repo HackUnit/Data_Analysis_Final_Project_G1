@@ -30,11 +30,10 @@ The data sources used for this project are derived from two reputable internatio
 - The main question we will address is what are the most important productive capacity and technological capacity features that a government should invest in to increase their ***GDP***.<br>
 - Another question we address is how do productive capacity and technological capacity features differ between countries in different regions of the world.
 
-# Machine Learning Model
-
-Using Multivariate Linear Regression and Random Forest Classifiers to analyze relationships in GDP factors
 
 ## Descriptions of Machine Learning Model Methodology
+
+Using Multivariate Linear Regression and Random Forest Classifiers to analyze relationships in GDP factors.
 
 ### Description of Preliminary Data Preprocessing:
 
