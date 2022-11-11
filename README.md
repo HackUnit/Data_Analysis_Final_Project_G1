@@ -39,8 +39,8 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * Our preliminary data preprocessing began with viewing how we could connect our four data tables. Our first data table, World development indicators ***(WDI)***, provided us with a country code ***(CC)*** field that we could use to identify the rest of our data tables going forward. Using Excel’s INDEX MATCH function, I was able to append the ***(CC)*** field onto our PCI and FTRI tables. Our tables had to be converted into CSV files from XLS format.<br>
 
-  [Data Table Schema](Resources/Images/Database_Schema.png)
-  <br><sub>Data Table Schema</sub><br>
+  ![Data Table Schema](Resources/Images/Database_Schema.png)
+  <br><sub>Data Table Schema</sub><br><br>
 
   Finally, before importing into Jupyter we had to convert our files into UTF-8-character encoding using a simple work around in Notepad. Our data tables were relatively clean as they have been prepared by two reputable international organizations that focus on world economic data collection, and thus we were able to simply drop nulls using pandas.
 
@@ -49,10 +49,10 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * For our preliminary feature engineering we chose to use a correlation matrix heatmap to help visualize the relationship between our numerical values.<br>
 
-  [Correlation Matrix Heatmap](Resources/Images/Correlation_Matrix.png)
-  <br><sub>Correlation Matrix Heatmap</sub><br>
+  ![Correlation Matrix Heatmap](Resources/Images/Correlation_Matrix.png)
+  <br><sub>Correlation Matrix Heatmap</sub><br><br>
 
-  We did find that two fields that are overall composites of our ***PCI*** and ***FTRI*** fields were heavily correlated with all our other fields. We dropped our ***(CC)*** field for our analysis as it is simply a duplicate identifier for our *"economy"* field.
+  * We did find that two fields that are overall composites of our ***PCI*** and ***FTRI*** fields were heavily correlated with all our other fields. We dropped our ***(CC)*** field for our analysis as it is simply a duplicate identifier for our *"economy"* field.
  
 
 ### Description of How Data was Split Into Training and Testing Sets:
@@ -74,13 +74,13 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * The **mulitvariate linear regression** model produced a training score of: 0.97, and a testing score of: 0.98.
 
-  [MLR Testing and Training Scores](Resources/Images/MLR-Model1_TestTraining_Scores.png)
-  <br><sub>MLR Testing and Training Scores</sub><br>
+  ![MLR Testing and Training Scores](Resources/Images/MLR-Model1_TestTraining_Scores.png)
+  <br><sub>MLR Testing and Training Scores</sub><br><br>
 
   * The **Random Forest Classifier** model produced a training score of: 1.0, and a testing score of: 1.0.
 
-  [RF Testing and Training Scores](Resources/Images/Random_Forest_TrainingTesting_Scores.png)
-  <br><sub>RF Testing and Training Scores<sub><br>
+  ![RF Testing and Training Scores](Resources/Images/Random_Forest_TrainingTesting_Score.png)
+  <br><sub>RFC Testing and Training Scores<sub><br>
 
 
 ## Links to Presentation Slides, Dashboard and Collaborator text file:
