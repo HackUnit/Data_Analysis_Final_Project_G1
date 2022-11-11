@@ -59,7 +59,7 @@ Using Multivariate Linear Regression and Random Forest Classifiers to analyze re
 
 ## Auxillary Files
 
- - [Requirements File](Resources/Text_Files/Collaborators.txt) of packages required to run code.
+ - [Requirements File](Resources/Text_Files/requirements.txt) of packages required to run code.
 
  - [File of Collaborators](Resources/Text_Files/Collaborators.txt) and what they have worked on. File kept separate to ease in editing.
 
