@@ -62,4 +62,4 @@ Using Multivariate Linear Regression and Random Forest Classifiers to analyze re
 
 [Link](https://docs.google.com/presentation/d/1Jcp-525SAy1fqANWJpyrW5gBkoJuHJ20XVnxLsWbyDU/edit?usp=sharing) to editable Google Slides
 
-[Link] (https://public.tableau.com/views/CountriesGDPinrelationtoProductivityandTechnicalCapac[…]e=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to interactive element of Dashboard
+[Link](https://public.tableau.com/views/CountriesGDPinrelationtoProductivityandTechnicalCapac[…]e=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to interactive element of Dashboard
