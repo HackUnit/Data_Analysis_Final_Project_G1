@@ -94,13 +94,13 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * For the first three graphs, the first question was answered in a slight form. Since we only utilized a smaller pool of features and an even smaller pool of countries the real question of "what are the most important feature that a country should invest into" wasn't fully answered. Instead it provided proof, especially in the Zimbabwe graph, that utilizing the whole dataset would uncover true answers to the original question and this specific analysis was a step in the correct direction.
 
-  ![Graph of USA Percentage Increase Predictions](USA_GDP_Inc.png)
+  ![Graph of USA Percentage Increase Predictions](Resources/Images/USA_GDP_Inc.png)
   <br><sub>Graph of USA 15% Percentage Increase Predictions</sub><br>
 
   * The visualization for the USA exemplifies how only cherry picking the features really only precludes an in depth answer and more or less states an possible obvious point. If you invest in any of these capacities in the USA, it will in some form or another increase the GDP, but none of these features stood out as "important".
 
 
-  ![Graph of Belize Percentage Increase Predictions](Belize_GDP_Inc.png)
+  ![Graph of Belize Percentage Increase Predictions](Resources/Images/Belize_GDP_Inc.png)
   <br><sub>Graph of Belize 15% Percentage Increase Predictions</sub><br>
 
   * Belize tells a similar story but starts to provide deeper insight into how these features shouldn't be chosen arbitrarily. We chose Productive feature capacities for Belize due to it already having a slant in this direction over the Technological feature capacities, but the results were inconclusive. Utilizing all of the features would have shown us what is most important for a country instead of making an educated guess.
@@ -108,7 +108,7 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * For the third graph, we again picked just three Productive Capacity features that we felt would show an increase. We struck gold on this one, as is shown, there is a massive increase in GPD if Zimbabwe was to even just invest 15% of it's combined resources into Human Capital.
 
-  ![Graph of Zimbabwe Percentage Increase Predictions](Zimbabwe_GDP_Inc.png)
+  ![Graph of Zimbabwe Percentage Increase Predictions](Resources/Images/Zimbabwe_GDP_Inc.png)
   <br><sub>Graph of Zimbabwe 15% Percentage Increase Predictions</sub><br>
 
   * This last graph was truly what we had been aiming for with the first question. It also showed that with a bit more work put in to utilize the full dataset we could have some real world answers on our hands. Or at least the beginnings of one.
@@ -121,7 +121,8 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   *The Capacities are summed up into Indexes with the Productivity on a scale of 0-100 and the Technological on a scale of 0-1.*
 
 #### EMBED CODE HERE
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
+</script>
 
 <tableau-viz id="tableauViz"
   src='https://public.tableau.com/app/profile/joseph.larose/viz/CountriesGDPRelationship/CNTRY-GDP'
