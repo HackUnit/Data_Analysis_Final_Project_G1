@@ -122,7 +122,6 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   *Please click the Map Image to be taken to Tableau Public which houses the interactive map due to GitHub restrictions.*<br>
   *When hovered over each country shows it's GDP in millions, its Productivity and Technological Capacities.*<br>
   *Feature Capacities summed up as Indexes: Productivity on a scale of 0-100 and Technological on a scale of 0-1.*
----
 
 <!--# Test embed code utilizing Tableau's Embedding API v3 library (Embedding does not work due to GitHub security measures)
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
