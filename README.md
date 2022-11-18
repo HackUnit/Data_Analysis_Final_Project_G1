@@ -118,9 +118,11 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * What follows is the final interactive map that provides answers to our second question. This of course casts an incredibly large net with only countries removed from the dataset due to those countries having large amounts of data missing. This is due to a variety of reasons usually in the form of civil unrest, military actions or anything else that completely disrupted the country’s economy to the point that no data could be gathered.
 
-  *Please click the Map Image to be taken to Tableau Public which houses the interactive map due to GitHub restrictions.*
+---
+  *Please click the Map Image to be taken to Tableau Public which houses the interactive map due to GitHub restrictions.*<br>
   *When hovered over each country shows it's GDP in millions, its Productivity and Technological Capacities.*<br>
-  *The Capacities are summed up into Indexes with the Productivity on a scale of 0-100m,<br>and the Technological on a scale of 0-1.*
+  *Feature Capacities summed up as Indexes: Productivity on a scale of 0-100 and Technological on a scale of 0-1.*
+---
 
 <!--# Test embed code utilizing Tableau's Embedding API v3 library (Embedding does not work due to GitHub security measures)
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
