@@ -80,7 +80,104 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   * The **Random Forest Classifier** model produced a training score of: ~0.99, and a testing score of: ~0.99.
 
   ![RF Testing and Training Scores](Resources/Images/Final_Model_Images/RandomForest_score.PNG)
-  <br><sub>RFC Testing and Training Scores<sub><br>
+  <br><sub>RFC Testing and Training Scores<sub><br><br>
+
+
+### Final Visualizations
+
+  * To complete our analysis we circled back to our original questions we wanted to answer.
+  **"What are the most important productive capacity and technological capacity features that a government should invest in to maximize their GDP?"**, and,<br>
+  **"How do productive capacity and technological capacity features differ between regions of the world?"**
+  We utilized Tableau to get the model data into visualizations that would provide answers to our questions.
+
+#### 15% Increase to capacity features to see GDP gain:
+
+  * For the first three graphs, the first question was answered in a slight form. Since we only utilized a smaller pool of features and an even smaller pool of countries the real question of "what are the most important feature that a country should invest into" wasn't fully answered. Instead it provided proof, especially in the Zimbabwe graph, that utilizing the whole dataset would uncover true answers to the original question and this specific analysis was a step in the correct direction.
+
+  ![Graph of USA Percentage Increase Predictions](USA_GDP_Inc.png)
+  <br><sub>Graph of USA 15% Percentage Increase Predictions</sub><br>
+
+  * The visualization for the USA exemplifies how only cherry picking the features really only precludes an in depth answer and more or less states an possible obvious point. If you invest in any of these capacities in the USA, it will in some form or another increase the GDP, but none of these features stood out as "important".
+
+
+  ![Graph of Belize Percentage Increase Predictions](Belize_GDP_Inc.png)
+  <br><sub>Graph of Belize 15% Percentage Increase Predictions</sub><br>
+
+  * Belize tells a similar story but starts to provide deeper insight into how these features shouldn't be chosen arbitrarily. We chose Productive feature capacities for Belize due to it already having a slant in this direction over the Technological feature capacities, but the results were inconclusive. Utilizing all of the features would have shown us what is most important for a country instead of making an educated guess.
+  <br>
+
+  * For the third graph, we again picked just three Productive Capacity features that we felt would show an increase. We struck gold on this one, as is shown, there is a massive increase in GPD if Zimbabwe was to even just invest 15% of it's combined resources into Human Capital.
+
+  ![Graph of Zimbabwe Percentage Increase Predictions](Zimbabwe_GDP_Inc.png)
+  <br><sub>Graph of Zimbabwe 15% Percentage Increase Predictions</sub><br>
+
+  * This last graph was truly what we had been aiming for with the first question. It also showed that with a bit more work put in to utilize the full dataset we could have some real world answers on our hands. Or at least the beginnings of one.
+
+#### Second Answer:
+
+  * What follows is the final interactive map that provides answers to our second question. This of course casts an incredibly large net with only countries removed from the dataset due to these countries having large amounts of data missing. This is due to a variety of reasons usally in the form of civil unrest, military actions or anything else that completely disrupted the countries economy to the point that no data could be gathered.
+
+  *When hovered over each country shows it's GDP in millions, its Productivity and Technological Capacities.*<br>
+  *The Capacities are summed up into Indexes with the Productivity on a scale of 0-100 and the Technological on a scale of 0-1.*
+
+#### EMBED CODE HERE
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
+<tableau-viz id="tableauViz"
+  src='https://public.tableau.com/app/profile/joseph.larose/viz/CountriesGDPRelationship/CNTRY-GDP'
+  device="desktop" toolbar="bottom" hide-tabs hide-edit-button>
+</tableau-viz>
+
+
+<br>
+
+### Conclusion
+
+  *While an important factor, the larger picture shows just that. There is a lot of data and a lot to parse. While fun to peruse, a more concise model that had the data stored as SQL to increase response time or even better pick specific nations that exemplifies that regions Capacities and having just these as interactive examples with more detail. An even further consideration building off that last idea is where all of the available data is there and you can select any country to bring it to the foreground with more detail. This combined with other toggles and views such as comparing two countries, or selecting regions and comparing those with the ability to add or take away Productive and Technological features or capacities as a whole.
+
+  In conclusion, there is a lot of excellent data available with a robust machine learning model with a high prediction rate, but the analysis merely gleaned the very top of this iceberg. Further analysis would be necessary to really uncover what could honestly be very important finds.
+
+  # Embed code utilizing Tableau's Embedding API v3 library
+
+
+
+
+<!-- # Embed code from Tableau Public to have 'Countries GDP Relationship' as in interactive element
+  <div class='tableauPlaceholder' id='viz1668795827084' style='position: relative'>
+
+  <noscript>
+  <a href='#'>
+  <img alt='Countries GDP in relation to Productivity and Technical Capacities' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountriesGDPRelationship&#47;CNTRY-GDP&#47;1_rss.png'
+  style='border: none'/>
+  </a>
+  </noscript>
+
+  <object class='tableauViz' style='display:none;'>
+  <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+  <param name='embed_code_version' value='3' />
+  <param name='site_root' value='' />
+  <param name='name' value='CountriesGDPRelationship&#47;CNTRY-GDP' />
+  <param name='tabs' value='no' />
+  <param name='toolbar' value='yes' />
+  <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountriesGDPRelationship&#47;CNTRY-GDP&#47;1.png' />
+  <param name='animate_transition' value='yes' />
+  <param name='display_static_image' value='yes' />
+  <param name='display_spinner' value='yes' />
+  <param name='display_overlay' value='yes' />
+  <param name='display_count' value='yes' />
+  <param name='language' value='en-US' />
+  </object>
+
+  </div>
+
+  <script type='text/javascript'>
+  var divElement = document.getElementById('viz1668795827084');
+  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  </script>
+-->
 
 ## Links to Presentation Slides, Dashboard, Collaborator and Presentation text files:
 
