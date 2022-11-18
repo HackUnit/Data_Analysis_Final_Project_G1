@@ -39,7 +39,7 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * Our preliminary data preprocessing began with viewing how we could connect our four data tables. Our first data table, World development indicators ***(WDI)***, provided us with a country code ***(CC)*** field that we could use to identify the rest of our data tables going forward. Using Excel’s INDEX MATCH function, I was able to append the ***(CC)*** field onto our PCI and FTRI tables. Our tables had to be converted into CSV files from XLS format.<br>
 
-  ![Data Table Schema](Resources/Images/Database_Schema.png)
+  ![Data Table Schema](Resources/Images/Old_Model_Images/Database_Schema.png)
   <br><sub>Data Table Schema</sub><br><br>
 
   Finally, before importing into Jupyter we had to convert our files into UTF-8-character encoding using a simple work around in Notepad. Our data tables were relatively clean as they have been prepared by two reputable international organizations that focus on world economic data collection, and thus we were able to simply drop nulls using pandas.
