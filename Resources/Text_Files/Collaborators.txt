@@ -4,7 +4,7 @@ Rafael Garza
 Joseph LaRose
 
 What they have done and their roles:
-Briana has gathered the datasets, cleaned the data and got the datasets into tables ready for the Machin Learning Models.
+Briana has gathered the datasets, cleaned the data and got the datasets into tables ready for the Machine Learning Models.
 
 Rafael has been constructing, training, testing and applying various Machine Learning Models to the dataset.
 

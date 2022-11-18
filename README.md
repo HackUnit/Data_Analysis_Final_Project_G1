@@ -49,7 +49,7 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
   * For our preliminary feature engineering we chose to use a correlation matrix heatmap to help visualize the relationship between our numerical values.<br>
 
-  ![Correlation Matrix Heatmap](Resources/Images/Correlation_Matrix.png)
+  ![Correlation Matrix Heatmap](Resources/Images/Final_Model_Images/Correlation_matrix.PNG)
   <br><sub>Correlation Matrix Heatmap</sub><br><br>
 
   * We did find that two fields that are overall composites of our ***PCI*** and ***FTRI*** fields were heavily correlated with all our other fields. We dropped our ***(CC)*** field for our analysis as it is simply a duplicate identifier for our *"economy"* field.
@@ -72,27 +72,30 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
 ### Machine Learning Model Scores:
 
-  * The **mulitvariate linear regression** model produced a training score of: 0.97, and a testing score of: 0.98.
+  * The **mulitvariate linear regression** model produced a training score of: ~0.97, and a testing score of: ~0.98.
 
-  ![MLR Testing and Training Scores](Resources/Images/MLR-Model1_TestTraining_Scores.png)
+  ![MLR Testing and Training Scores](Resources/Images/Final_Model_Images/Regression_score.PNG)
   <br><sub>MLR Testing and Training Scores</sub><br><br>
 
-  * The **Random Forest Classifier** model produced a training score of: 1.0, and a testing score of: 1.0.
+  * The **Random Forest Classifier** model produced a training score of: ~0.99, and a testing score of: ~0.99.
 
-  ![RF Testing and Training Scores](Resources/Images/Random_Forest_TrainingTesting_Score.png)
+  ![RF Testing and Training Scores](Resources/Images/Final_Model_Images/RandomForest_score.PNG)
   <br><sub>RFC Testing and Training Scores<sub><br>
 
 
-## Links to Presentation Slides, Dashboard and Collaborator text file:
+## Links to Presentation Slides, Dashboard, Collaborator and Presentation text files:
 
  - [Link](https://docs.google.com/presentation/d/1Jcp-525SAy1fqANWJpyrW5gBkoJuHJ20XVnxLsWbyDU/edit?usp=sharing) to Presentation Slides
 
- - [Link](https://public.tableau.com/views/CountriesGDPinrelationtoProductivityandTechnicalCapac[…]e=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to interactive element of Dashboard. (Mockup and not final Dashboard)
+ - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/USAGPDIncreasePredictions/USA) to USA Percentage Increase Predictions.
+
+ - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/BelizeGPDIncreasePredictions/Belize) to Belize's Percentage Increase Predictions.
+
+ - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/ZimbabweGDPIncreasePredictions/Zimbabwe) to Zimbabwe's Percentage Increase Predictions.
+
+  - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/CountriesGDPRelationship/CNTRY-GDP) to country and region map showcasing GDP, Productive capacitites and Technological capacities.
+
+ - [Link](https://docs.google.com/document/d/1mGWqPEkqyLVoLMZf_UMSj-bgQHhv7QTlxqMlQqd-GJQ/edit) to Presentation Notes.
+
 
  - [File of Collaborators](Resources/Collaborators.txt) and what they have worked on. File kept separate to ease in editing.
-
-
-#### For Collaborators
-
-[Link](https://docs.google.com/document/d/1Vm8NXSvze7SAoavksqqIHmA6JsNCXIDlXo6HZoT_XlA/edit?usp=sharing) to editable Segment 3 Rubric Checklist.
-
