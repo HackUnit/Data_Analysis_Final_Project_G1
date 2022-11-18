@@ -120,7 +120,7 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   *When hovered over each country shows it's GDP in millions, its Productivity and Technological Capacities.*<br>
   *The Capacities are summed up into Indexes with the Productivity on a scale of 0-100 and the Technological on a scale of 0-1.*
 
-#### EMBED CODE HERE
+<!--# Test embed code utilizing Tableau's Embedding API v3 library
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
 </script>
 
@@ -128,22 +128,8 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   src='https://public.tableau.com/app/profile/joseph.larose/viz/CountriesGDPRelationship/CNTRY-GDP'
   device="desktop" toolbar="bottom" hide-tabs hide-edit-button>
 </tableau-viz>
-
-
-<br>
-
-### Conclusion
-
-  *While an important factor, the larger picture shows just that. There is a lot of data and a lot to parse. While fun to peruse, a more concise model that had the data stored as SQL to increase response time or even better pick specific nations that exemplifies that regions Capacities and having just these as interactive examples with more detail. An even further consideration building off that last idea is where all of the available data is there and you can select any country to bring it to the foreground with more detail. This combined with other toggles and views such as comparing two countries, or selecting regions and comparing those with the ability to add or take away Productive and Technological features or capacities as a whole.
-
-  In conclusion, there is a lot of excellent data available with a robust machine learning model with a high prediction rate, but the analysis merely gleaned the very top of this iceberg. Further analysis would be necessary to really uncover what could honestly be very important finds.
-
-  # Embed code utilizing Tableau's Embedding API v3 library
-
-
-
-
-<!-- # Embed code from Tableau Public to have 'Countries GDP Relationship' as in interactive element
+->
+<!-- # Embed code from Tableau Public to have 'Countries GDP Relationship' as in interactive element -->
   <div class='tableauPlaceholder' id='viz1668795827084' style='position: relative'>
 
   <noscript>
@@ -178,7 +164,17 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
   </script>
--->
+
+<br>
+
+### Conclusion
+
+  * While an important factor, the larger picture shows just that. There is a lot of data and a lot to parse. While fun to peruse, a more concise model that had the data stored as SQL to increase response time or even better pick specific nations that exemplifies that regions Capacities and having just these as interactive examples with more detail. An even further consideration building off that last idea is where all of the available data is there and you can select any country to bring it to the foreground with more detail. This combined with other toggles and views such as comparing two countries, or selecting regions and comparing those with the ability to add or take away Productive and Technological features or capacities as a whole.
+
+***
+
+  * In conclusion, there is a lot of excellent data available with a robust machine learning model with a high prediction rate, but the analysis merely gleaned the very top of this iceberg. Further analysis would be necessary to really uncover what could honestly be very important finds.
+
 
 ## Links to Presentation Slides, Dashboard, Collaborator and Presentation text files:
 
