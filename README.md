@@ -84,17 +84,15 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
 ## Links to Presentation Slides, Dashboard, Collaborator and Presentation text files:
 
- - [Link](https://docs.google.com/presentation/d/1Jcp-525SAy1fqANWJpyrW5gBkoJuHJ20XVnxLsWbyDU/edit?usp=sharing) to Presentation Slides
+ - [Presentation Slides](https://docs.google.com/presentation/d/1Jcp-525SAy1fqANWJpyrW5gBkoJuHJ20XVnxLsWbyDU/edit?usp=sharing).
 
- - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/USAGPDIncreasePredictions/USA) to USA Percentage Increase Predictions.
+ - [Interactive: USA Percentage Increase Predictions](https://public.tableau.com/app/profile/joseph.larose/viz/USAGPDIncreasePredictions/USA).
 
- - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/BelizeGPDIncreasePredictions/Belize) to Belize's Percentage Increase Predictions.
+ - [Interactive: Belize's Percentage Increase Predictions](https://public.tableau.com/app/profile/joseph.larose/viz/BelizeGPDIncreasePredictions/Belize).
 
- - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/ZimbabweGDPIncreasePredictions/Zimbabwe) to Zimbabwe's Percentage Increase Predictions.
+ - [Interactive: Zimbabwe's Percentage Increase Predictions](https://public.tableau.com/app/profile/joseph.larose/viz/ZimbabweGDPIncreasePredictions/Zimbabwe).
 
-  - [Link](https://public.tableau.com/app/profile/joseph.larose/viz/CountriesGDPRelationship/CNTRY-GDP) to country and region map showcasing GDP, Productive capacitites and Technological capacities.
-    
-![GPD](https://public.tableau.com/views/CountriesGDPRelationship/CNTRY-GDP?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [Link to Interactive](https://public.tableau.com/app/profile/joseph.larose/viz/CountriesGDPRelationship/CNTRY-GDP) of country and region map showcasing GDP, Productive capacitites and Technological capacities.
 
  - [Link](https://docs.google.com/document/d/1mGWqPEkqyLVoLMZf_UMSj-bgQHhv7QTlxqMlQqd-GJQ/edit) to Presentation Notes.
 
