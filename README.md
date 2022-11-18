@@ -159,25 +159,16 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   </object>
 
   </div>
-
-  <script type='text/javascript'>
-  var divElement = document.getElementById('viz1668795827084');
-  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-  </script>
-
+    
 <br>
 
 ### Conclusion
 
   * While an important factor, the larger picture shows just that. There is a lot of data and a lot to parse. While fun to peruse, a more concise model that had the data stored as SQL to increase response time or even better pick specific nations that exemplifies that regions Capacities and having just these as interactive examples with more detail. An even further consideration building off that last idea is where all of the available data is there and you can select any country to bring it to the foreground with more detail. This combined with other toggles and views such as comparing two countries, or selecting regions or specific years of data and comparing those with the ability to add or take away Productive and Technological features or capacities as a whole could make a very robust dashboard.
 
+  * In closing, there is a lot of excellent data available with a robust machine learning model with a high prediction rate, but the analysis merely gleaned the very top of this iceberg. Further analysis would be necessary to really uncover what could be very important finds for world economies.
+
 ***
-
-  * In conclusion, there is a lot of excellent data available with a robust machine learning model with a high prediction rate, but the analysis merely gleaned the very top of this iceberg. Further analysis would be necessary to really uncover what could honestly be very important finds.
-
 
 ## Links to Presentation Slides, Graphs, Map, Collaborator and Presentation text files:
 
