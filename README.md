@@ -98,13 +98,13 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   <br><sub>Graph of USA 15% Percentage Increase Predictions</sub><br>
 
   * The visualization for the USA exemplifies how only cherry picking the features really only precludes an in-depth answer and more or less states a possible obvious point. If you invest in any of these capacities in the USA, it will in some form or another increase the GDP, but none of these features stood out as "important".
-
+<br>
 
   ![Graph of Belize Percentage Increase Predictions](Resources/Images/Belize_GDP_Inc.png)
   <br><sub>Graph of Belize 15% Percentage Increase Predictions</sub><br>
 
   * Belize tells a similar story but starts to provide deeper insight into how these features shouldn't be chosen arbitrarily. We chose Productive feature capacities for Belize due to it already having a slant in this direction over the Technological feature capacities, but the results were inconclusive. Utilizing all of the features would have shown us what is most important for a country instead of making an educated guess.
-  <br>
+<br>
 
   * For the third graph, we again picked just three Productive Capacity features that we felt would show an increase. We struck gold on this one, as is shown, there is a massive increase in GPD if Zimbabwe was to even just invest 15% of its combined resources into Human Capital.
 
@@ -112,14 +112,15 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
   <br><sub>Graph of Zimbabwe 15% Percentage Increase Predictions</sub><br>
 
   * This last graph was truly what we had been aiming for with the first question. It also showed that with a bit more work put in to utilize the full dataset we could have some real-world answers on our hands. Or at least the beginnings of one.
+<br>
 
 #### Map of countries, to discover capacity feature differences:
 
   * What follows is the final interactive map that provides answers to our second question. This of course casts an incredibly large net with only countries removed from the dataset due to those countries having large amounts of data missing. This is due to a variety of reasons usually in the form of civil unrest, military actions or anything else that completely disrupted the country’s economy to the point that no data could be gathered.
 
-  *Please click the Map Image to be taken to Tableau Public which houses the interactive map due to GitHub restrictions*
+  *Please click the Map Image to be taken to Tableau Public which houses the interactive map due to GitHub restrictions.*
   *When hovered over each country shows it's GDP in millions, its Productivity and Technological Capacities.*<br>
-  *The Capacities are summed up into Indexes with the Productivity on a scale of 0-100 and the Technological on a scale of 0-1.*
+  *The Capacities are summed up into Indexes with the Productivity on a scale of 0-100m,<br>and the Technological on a scale of 0-1.*
 
 <!--# Test embed code utilizing Tableau's Embedding API v3 library (Embedding does not work due to GitHub security measures)
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
