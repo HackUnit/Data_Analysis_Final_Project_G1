@@ -115,7 +115,7 @@ Using **Multivariate Linear Regression** and **Random Forest Classifiers** to an
 
 #### Map of countries, to discover capacity feature differences:
 
-  * What follows is the final interactive map that provides answers to our second question. This of course casts an incredibly large net with only countries removed from the dataset due to these countries having large amounts of data missing. This is due to a variety of reasons usually in the form of civil unrest, military actions or anything else that completely disrupted the country’s economy to the point that no data could be gathered.
+  * What follows is the final interactive map that provides answers to our second question. This of course casts an incredibly large net with only countries removed from the dataset due to those countries having large amounts of data missing. This is due to a variety of reasons usually in the form of civil unrest, military actions or anything else that completely disrupted the country’s economy to the point that no data could be gathered.
 
   *Please click the Map Image to be taken to Tableau Public which houses the interactive map due to GitHub restrictions*
   *When hovered over each country shows it's GDP in millions, its Productivity and Technological Capacities.*<br>
